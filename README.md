@@ -2,11 +2,11 @@
 **Project Overview**
 In this project, I designed and implemented a database containing six tables with appropriate key constraints. The tables included are:
 
--Agent
--Client_info
--Employee
--Insurance_Details
--SoldCars
+-Agent,
+-Client_info,
+-Employee,
+-Insurance_Details,
+-SoldCars,
 -UsedCars
 
 Each table stores relevant information specific to its purpose, ensuring a well-structured and normalized database.
